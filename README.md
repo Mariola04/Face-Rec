@@ -1,10 +1,10 @@
 # Face Rec code using Simple Face Rec library and opencv
 
-This was a project I made on my spare time with the purpose of redoing it on my Arduino Board and linking it with a web server. But as of now it only has the python code for it 
+This was a project I made on my spare time with the purpose of redoing it on my Arduino Board and linking it with a web server. But as of now it only has the python code for it. 
 
-The program is pretty simple, once you execute it it opens a seperate window with your camera, after the program detects a face a red square will appear and it will following you as long as it can see you.
+The program is pretty simple, once you execute it  a seperate window opens with your camera, after the program detects a face a red square will appear and it will be following you as long as it can see you.
 
-If you are not in the image database your tag will be "Unknown" and if you are it will have your name
+If you are not in the image database your tag will be "Unknown" and if you are, it will have your name.
 
 ## Libraries
 
