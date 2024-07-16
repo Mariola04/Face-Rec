@@ -39,4 +39,4 @@ To exit the window press "Esc"
 ### New Face
 If you want to add a new face simply press "n", the window will freeze and on the terminal a new prompt will appear that asks you to write the person name, after typing the name click enter and the window will unfreeze.
 
-And a screenshot of the "Unknown" rectangle in the moment you pressed "n" will be added to "/images" and the person is now added to the database
+A screenshot of the "Unknown" rectangle in the moment you pressed "n" will be added to "/images" and the person is now added to the database
